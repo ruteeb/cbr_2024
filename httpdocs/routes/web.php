@@ -13,9 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
+// tes
 Route::get('/', function () {
     return view('pages.home.index');
 });
+//test
 
 
 Route::get('/test', function () {
