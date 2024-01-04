@@ -14,5 +14,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+<<<<<<< HEAD
     return view('welcome');
 });
+=======
+    return view('pages.home.index');
+});
+
+
+Route::get('/test', function () {
+    return view('test');
+});
+>>>>>>> 6bac14e (homePage)
