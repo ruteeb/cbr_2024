@@ -3,17 +3,17 @@
         <div class="p-3 flex items-center  justify-between lg:space-x-6 text-gray-900 font-medium">
             <div class="flex items-center justify-between lg:space-x-10 md:space-x-4 lg:flex md:flex hidden">
 
-                <a href=""> <span>الصفحة الرئيسية</span></a>
+                <a class="hover:bg-gray-300 p-3 rounded-lg" href=""> <span>الصفحة الرئيسية</span></a>
 
-                <a href=""> <span>المتجر</span></a>
+                <a class="hover:bg-gray-300 p-3 rounded-lg" href=""> <span>المتجر</span></a>
 
-                <a href=""> <span>المعلومات المجانية</span></a>
+                <a class="hover:bg-gray-300 p-3 rounded-lg" href=""> <span>المعلومات المجانية</span></a>
 
-                <a href=""> <span>حجز أمتحان مع مترجم</span></a>
+                <a class="hover:bg-gray-300 p-3 rounded-lg" href=""> <span>حجز أمتحان مع مترجم</span></a>
 
-                <a href="">  <span>أتصل بنا</span></a>
+                <a class="hover:bg-gray-300 p-3 rounded-lg" href="">  <span>أتصل بنا</span></a>
 
-                <a href="">   <span>حسابي</span></a>
+                <a class="hover:bg-gray-300 p-3 rounded-lg" href="">   <span>حسابي</span></a>
             </div>
             <div class="w-full sm:w-auto">
 

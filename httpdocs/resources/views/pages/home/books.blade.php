@@ -5,8 +5,8 @@
     </div>
 </div>
 <div
-    class="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 justify-items-center justify-center  lg:gap-9 gap-5 lg:mx-20 ">
-    <div class="rounded-xl max-w-52">
+    class="grid lg:grid-cols-4 md:grid-cols-3 grid-cols-2 justify-items-center justify-center  lg:gap-9 gap-5 lg:mx-20 ">
+    <div class="rounded-xl lg:w-64 md:w-60 lg-32">
         <div class="flex justify-center">
 
             <p class=" xl:text-2xl lg:text-xl text-lg  my-2 font-bold">منتج منتج</p>
@@ -17,7 +17,7 @@
             حدد موعد</button>
 
     </div>
-    <div class="rounded-xl max-w-52">
+    <div class="rounded-xl lg:w-64 md:w-60 lg-32">
         <div class="flex justify-center">
 
             <p class=" xl:text-2xl lg:text-xl text-lg  my-2 font-bold">منتج منتج</p>
@@ -28,7 +28,7 @@
             حدد موعد</button>
 
     </div>
-    <div class="rounded-xl max-w-52">
+    <div class="rounded-xl lg:w-64 md:w-60 lg-32">
         <div class="flex justify-center">
 
             <p class=" xl:text-2xl lg:text-xl text-lg  my-2 font-bold">منتج منتج</p>
@@ -39,7 +39,7 @@
             حدد موعد</button>
 
     </div>
-    <div class="rounded-xl max-w-52">
+    <div class="rounded-xl lg:w-64 md:w-60 lg-32">
         <div class="flex justify-center">
 
             <p class=" xl:text-2xl lg:text-xl text-lg  my-2 font-bold">منتج منتج</p>

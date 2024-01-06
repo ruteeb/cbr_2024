@@ -13,9 +13,10 @@
             </div>
         </div>
         <div class="flex justify-center ">
-
-            <button class="mt-3 bg-blue-600 lg:p-4 p-3 text-white lg:font-semibold rounded-md mr-2">امتحان تجريبي مجاني
-            </button>
+<a href="{{route('reserve-exam')}}">
+    <button class="mt-3 bg-blue-600 lg:p-4 p-3 text-white lg:font-semibold rounded-md mr-2">امتحان تجريبي مجاني
+    </button>
+</a>
         </div>
     </div>
     <div class="mt-6">

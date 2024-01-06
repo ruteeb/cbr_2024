@@ -27,16 +27,24 @@
 </head>
 <body class="bg-blue-200">
 
+  @if(Route::currentRouteName()!=='login' && Route::currentRouteName()!=='register' && Route::currentRouteName()!=='reserve-exam')
+    
     @include('layout.header')
 
+  @endif
 
     @yield('content')
 
 
     @yield('js')
 
+    
+  @if(Route::currentRouteName()!=='login' && Route::currentRouteName()!=='register'  && Route::currentRouteName()!=='reserve-exam')
 
     @include('layout.footer')
+  
+   @endif
+
 
 </body>
 </html>

@@ -8,10 +8,11 @@
 
 </div>
 <div class="">
+    
 
     <details class=" bg-blue-600 rounded-xl rounded-b-none border-b-[1px]">
         <summary class="text-center text-white font-semibold text-xl p-3">عنوان</summary>
-            <div class="bg-blue-200 mt-2 p-8 grid lg:grid-cols-3 grid-cols-2 lg:gap-10 gap:5">
+            <div class="bg-blue-200 lg:pt-8 pt-4 p-4 grid lg:grid-cols-3 grid-cols-2 gap-10 ">
 
                 <div class="rounded-xl  bg-white text-center ">
                     <p class="text-2xl font-semibold mt-2">Test-1</p>
@@ -39,7 +40,7 @@
 
     <details class=" bg-blue-600  border-b-[1px]">
         <summary class="text-center text-white font-semibold text-xl p-3">عنوان</summary>
-            <div class="bg-blue-200 mt-2 p-8 grid lg:grid-cols-3 grid-cols-2 lg:gap-10 gap:5">
+            <div class="bg-blue-200 lg:pt-8 pt-4 p-4 grid lg:grid-cols-3 grid-cols-2 gap-10">
 
                 <div class="rounded-xl  bg-white text-center ">
                     <p class="text-2xl font-semibold mt-2">Test-1</p>
@@ -67,7 +68,7 @@
 
     <details class=" bg-blue-600 rounded-b-xl  border-b-[1px]">
         <summary class="text-center text-white font-semibold text-xl p-3">عنوان</summary>
-            <div class="bg-blue-200 mt-2 p-8 grid lg:grid-cols-3 grid-cols-2 lg:gap-10 gap:5">
+            <div class="bg-blue-200 lg:pt-8 pt-4 p-4 grid lg:grid-cols-3 grid-cols-2 gap-10">
 
                 <div class="rounded-xl  bg-white text-center ">
                     <p class="text-2xl font-semibold mt-2">Test-1</p>

@@ -22,6 +22,15 @@ Route::get('/', function () {
 //test
 
 
-Route::get('/test', function () {
-    return view('test');
-});
+Route::get('/login', function () {
+    return view('pages.auth.login');
+})->name('login');
+
+
+Route::get('/register', function () {
+    return view('pages.auth.register');
+})->name('register');
+
+Route::get('/reserve-exam', function () {
+    return view('pages.exam.index');
+})->name('reserve-exam');
